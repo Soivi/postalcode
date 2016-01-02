@@ -1,0 +1,17 @@
+body {
+	background-color: rgb(185, 255, 185);
+}
+
+textarea
+{
+   resize: none;
+}
+
+#area {
+	background-color: rgb(255, 255, 255);
+	padding: 10px;
+}
+
+.help-block {
+	color: rgb(200,0,0);
+}
