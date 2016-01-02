@@ -11,7 +11,7 @@ Postalcode manager is made with PHP. It’s webproject where you can add, list a
 ## Deploy
 
 **Install LAMP:**
-**https://soivi.net/2014/how-to-install-lamp/**
+<br>**https://soivi.net/2014/how-to-install-lamp/**
 
 Clone repository:
 
